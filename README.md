@@ -1,0 +1,1 @@
+This is a project focusing on a 24 hour forecast on wind generation using time series analysis and machine learning approaches. Feel free to read the project pdf as well as the notebook for more details.
